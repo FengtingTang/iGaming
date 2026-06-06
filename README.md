@@ -4,7 +4,7 @@
 
 ## 中文
 
-iGaming 是一个完全本地运行的 Android 小游戏盒子，使用 Kotlin、Jetpack Compose 和 Material 3 构建。项目首版包含贪吃蛇、2048、俄罗斯方块和合成大西瓜，适合学习 Compose 游戏 UI、Canvas 绘制、本地状态保存和 Android 真机调试流程。
+iGaming 是一个本地优先的 Android 小游戏盒子，使用 Kotlin、Jetpack Compose 和 Material 3 构建。项目首版包含贪吃蛇、2048、俄罗斯方块和合成大西瓜，适合学习 Compose 游戏 UI、Canvas 绘制、本地状态保存和 Android 真机调试流程。
 
 ### 功能特性
 
